@@ -1,0 +1,7 @@
+C:\Users\随心\source\repos\homework6 project1\homework6 project1\bin\Debug\homework6 project1.exe.config
+C:\Users\随心\source\repos\homework6 project1\homework6 project1\bin\Debug\homework6 project1.exe
+C:\Users\随心\source\repos\homework6 project1\homework6 project1\bin\Debug\homework6 project1.pdb
+C:\Users\随心\source\repos\homework6 project1\homework6 project1\obj\Debug\homework6 project1.csprojAssemblyReference.cache
+C:\Users\随心\source\repos\homework6 project1\homework6 project1\obj\Debug\homework6 project1.csproj.CoreCompileInputs.cache
+C:\Users\随心\source\repos\homework6 project1\homework6 project1\obj\Debug\homework6 project1.exe
+C:\Users\随心\source\repos\homework6 project1\homework6 project1\obj\Debug\homework6 project1.pdb
