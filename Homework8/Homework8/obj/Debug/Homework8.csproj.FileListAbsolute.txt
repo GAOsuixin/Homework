@@ -1,0 +1,4 @@
+C:\Users\随心\source\repos\Homework8\Homework8\obj\Debug\Homework8.csprojAssemblyReference.cache
+C:\Users\随心\source\repos\Homework8\Homework8\obj\Debug\Homework8.Properties.Resources.resources
+C:\Users\随心\source\repos\Homework8\Homework8\obj\Debug\Homework8.csproj.GenerateResource.cache
+C:\Users\随心\source\repos\Homework8\Homework8\obj\Debug\Homework8.csproj.CoreCompileInputs.cache
